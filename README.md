@@ -1,19 +1,20 @@
-## Hi there 👋 I'm Ankita Biranje
-# Computer Science Student
-
-
-- 🎓 Finishing my final year of **BSc in Computer Science** at Shivaji University Kolhapur.
+# 👋🏻 Hii, I'm Ankita.
 <!--
 **Ankita-Biranje/Ankita-Biranje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🎓 Computer Science Student.
+- 💻 Aspiring Software Developer.
+- 🌱 Currently learning  Angular Framework and Responsive web designing.
+- 🚀 Interested in Frontend Development.
+
+
+## 🎯 My Goals...
+- Become Full Stack Developer.
+- Build Real World Projects.
+- Improve DSA and Problem Solving.
+
+## 🤝Connect With Me 
+- linkedin.com/in/Ankita-Biranje
+
