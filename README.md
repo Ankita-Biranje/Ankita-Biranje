@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - Improve DSA and Problem Solving.
 
 ## 🤝Connect With Me 
-- linkedin.com/in/Ankita-Biranje
+- https://www.linkedin.com/in/Ankita-Biranje
 
